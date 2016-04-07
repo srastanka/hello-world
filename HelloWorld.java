@@ -1,5 +1,3 @@
-package com.dotcms.plugin.rest;
-
 public class HelloWorld {
 
 	public static void main(String[] args) {
